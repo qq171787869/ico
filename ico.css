@@ -5,36 +5,36 @@
  * http://www.xyg.cool
  */
 
-.ico{width: 24px;height: 24px;margin: 1px;float: left;}
+.ico{background-image: url(../image/ico.png);width: 24px;height: 24px;margin: 1px;float: left;}
 
-.ico-ai{background:url(ico.png) 0 0 no-repeat}
-.ico-android{background:url(ico.png) -24px 0 no-repeat}
-.ico-apple{background:url(ico.png) -48px 0 no-repeat}
-.ico-audio{background:url(ico.png) -72px 0 no-repeat}
-.ico-bt{background:url(ico.png) -96px 0 no-repeat}
+.ico-ai{background-position: 0 0;background-repeat: no-repeat;}
+.ico-android{background-position: -24px 0;background-repeat: no-repeat;}
+.ico-apple{background-position: -48px 0;background-repeat: no-repeat;}
+.ico-audio{background-position: -72px 0;background-repeat: no-repeat;}
+.ico-bt{background-position: -96px 0;background-repeat: no-repeat;}
 
-.ico-cad{background:url(ico.png) 0 -24px no-repeat}
-.ico-code{background:url(ico.png) -24px -24px no-repeat}
-.ico-doc{background:url(ico.png) -48px -24px no-repeat}
-.ico-eps{background:url(ico.png) -72px -24px no-repeat}
-.ico-excel{background:url(ico.png) -96px -24px no-repeat}
+.ico-cad{background-position: 0 -24px;background-repeat: no-repeat;}
+.ico-code{background-position: -24px -24px;background-repeat: no-repeat;}
+.ico-doc{background-position: -48px -24px;background-repeat: no-repeat;}
+.ico-eps{background-position: -72px -24px;background-repeat: no-repeat;}
+.ico-excel{background-position: -96px -24px;background-repeat: no-repeat;}
 
-.ico-exe{background:url(ico.png) 0 -48px no-repeat}
-.ico-flash{background:url(ico.png) -24px -48px no-repeat}
-.ico-folder{background:url(ico.png) -48px -48px no-repeat}
-.ico-font{background:url(ico.png) -72px -48px no-repeat}
-.ico-image{background:url(ico.png) -96px -48px no-repeat}
+.ico-exe{background-position: 0 -48px;background-repeat: no-repeat;}
+.ico-flash{background-position: -24px -48px;background-repeat: no-repeat;}
+.ico-folder{background-position: -48px -48px;background-repeat: no-repeat;}
+.ico-font{background-position: -72px -48px;background-repeat: no-repeat;}
+.ico-image{background-position: -96px -48px;background-repeat: no-repeat;}
 
-.ico-txt{background:url(ico.png) 0 -72px no-repeat}
-.ico-video{background:url(ico.png) -24px -72px no-repeat}
-.ico-web{background:url(ico.png) -48px -72px no-repeat}
-.ico-word{background:url(ico.png) -72px -72px no-repeat}
-.ico-xmind{background:url(ico.png) -96px -72px no-repeat}
+.ico-txt{background-position: 0 -72px;background-repeat: no-repeat;}
+.ico-video{background-position: -24px -72px;background-repeat: no-repeat;}
+.ico-web{background-position: -48px -72px;background-repeat: no-repeat;}
+.ico-word{background-position: -72px -72px;background-repeat: no-repeat;}
+.ico-xmind{background-position: -96px -72px;background-repeat: no-repeat;}
 
-.ico-keynote{background:url(ico.png) 0 -96px no-repeat}
-.ico-misc{background:url(ico.png) -24px -96px no-repeat}
-.ico-pdf{background:url(ico.png) -48px -96px no-repeat}
-.ico-ppt{background:url(ico.png) -72px -96px no-repeat}
-.ico-ps{background:url(ico.png) -96px -96px no-repeat}
+.ico-keynote{background-position: 0 -96px;background-repeat: no-repeat;}
+.ico-misc{background-position: -24px -96px;background-repeat: no-repeat;}
+.ico-pdf{background-position: -48px -96px;background-repeat: no-repeat;}
+.ico-ppt{background-position: -72px -96px;background-repeat: no-repeat;}
+.ico-ps{background-position: -96px -96px;background-repeat: no-repeat;}
 
-.ico-rar{background:url(ico.png) 0 -120px no-repeat}
+.ico-rar{background-position: 0 -120px;background-repeat: no-repeat;}
